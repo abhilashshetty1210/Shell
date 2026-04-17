@@ -1,3 +1,2 @@
 # Shell
-Schell Scripts
-shell script updated by myfrd 
+Schell Scripts updated by myfrd 
